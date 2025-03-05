@@ -6,7 +6,7 @@ metadata:
 
 services:
   webapp:
-    project: ./packages/webapp-html
+    project: ./packages/webapp-react
     dist: dist
     language: ts
     host: staticwebapp
